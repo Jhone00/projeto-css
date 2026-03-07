@@ -13,4 +13,5 @@ Meu Projeto è sobre se importar com os animais, e temos a retratação de cuida
 <img src= "https://github.com/Jhone00/projeto-css/blob/master/Captura%20de%20tela%202026-03-07%20193756.png?raw=true">
 
 <h1>Resultado para smartphone</h1>
+<p> Aplicamos a responsividade no site para ter os dois mundos difertentes e que são muito utilizados.</p>
 <img src="https://github.com/Jhone00/projeto-css/blob/master/care.png?raw=true">
