@@ -10,4 +10,4 @@ Meu Projeto è sobre se importar com os animais, e temos a retratação de cuida
 
 <br>
 <h1>Resultado no PC</h1>
-<img src=>
+<img src= "https://github.com/Jhone00/projeto-css/blob/master/Captura%20de%20tela%202026-03-07%20193756.png?raw=true">
